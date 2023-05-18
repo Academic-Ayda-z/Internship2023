@@ -3,7 +3,7 @@ Cardiac arrhythmia Detection from Ecg test using signal and image processing
 
 I am being supervised by both professor Gholamreza Karimi and Associate Professor Zohre Azimifar at Shiraz University.
 
-Report of What I have done :
+Report of What I have done so far :
 
 made the source code of [link](https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f) run without any error.(which used [wfdb](https://physionet.org/content/wfdb-python/4.1.0/) )
 
