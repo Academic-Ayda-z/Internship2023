@@ -4,10 +4,10 @@ Cardiac arrhythmia Detection from Ecg test using signal and image processing
 I am being supervised by both professor Gholamreza Karimi and Associate Professor Zohre Azimifar at Shiraz University.
 
 Report of What I have done so far :
- file:///home/ayda/Downloads/data%20set%20Imprtant%20information.pdf
 
 
-completing the ecg_plot ppt file for Dr.Karimi's presentation : file:///home/ayda/Downloads/ECG_plots.pptx
+
+completing the ecg_plot ppt file for Dr.Karimi's presentation 
 
 and made new futhers and changes to the ecg_plot.ipynb file.
 
