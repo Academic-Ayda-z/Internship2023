@@ -6,7 +6,7 @@ I am being supervised by both professor Gholamreza Karimi and Associate Professo
 Report of What I have done so far :
 
 
-
+completing https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
 completing the ecg_plot ppt file for Dr.Karimi's presentation 
 
 and made new futhers and changes to the ecg_plot.ipynb file.
