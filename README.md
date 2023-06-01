@@ -6,6 +6,9 @@ I am being supervised by both professor Gholamreza Karimi and Associate Professo
 Report of What I have done so far :
 
 
+
+Final report of visualizing ecg signals : [ECG_Presentatioin.pptx](https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/ECG_Presentatioin.pptx) , https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
+
 completing https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
 
 completing the ecg_plot ppt file for Dr.Karimi's presentation https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/ECG_plots.pptx
