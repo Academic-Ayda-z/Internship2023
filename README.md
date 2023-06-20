@@ -8,7 +8,7 @@ Report of What I have done so far :
 
 [embed]https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf[/embed]
 
-Final report of visualizing ecg signals :
+Final report of visualizing ECG signals :
 [ECG_Presentatioin.pptx](https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/ECG_Presentatioin.pptx) , https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
 
 completing https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
