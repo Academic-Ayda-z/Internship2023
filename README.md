@@ -7,11 +7,10 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 ## Report of What I have done so far :
 
 ## Biobank Report:
+https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf
 
 ## ECG Report:
- [embed]https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf[/embed] 
-
-
+https://github.com/Academic-Ayda-z/Internship2023/blob/main/ECG%20Report%20.pdf
 
 
 ## Final report of visualizing ECG signals :
