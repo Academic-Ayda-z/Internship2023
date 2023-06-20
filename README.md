@@ -9,7 +9,7 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 ## Biobank Report:
 
 ## ECG Report:
- [embed][http://example.com/file.pdf](https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf)[/embed] 
+ [embed]https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf[/embed] 
 
 
 
