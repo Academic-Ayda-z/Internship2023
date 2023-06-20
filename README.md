@@ -4,16 +4,22 @@ Biobank project
 
 I am being supervised by Associate Professor Zohre Azimifar at Shiraz University.
 
-Report of What I have done so far :
+##Report of What I have done so far :
 
-[embed]https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf[/embed]
+#Biobank Report:
+file:///home/ayda/Downloads/Merged_document.jpg
 
-Final report of visualizing ECG signals :
+##ECG Report:
+[ECG Report .docx](https://github.com/Academic-Ayda-z/Internship2023/files/11805740/ECG.Report.docx)
+
+
+
+##Final report of visualizing ECG signals :
 [ECG_Presentatioin.pptx](https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/ECG_Presentatioin.pptx) , https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
 
-completing https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
+##completed https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/data%20set%20Imprtant%20information.pdf
 
-completing the ecg_plot ppt file for Dr.Karimi's presentation https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/ECG_plots.pptx
+##completed the ecg_plot ppt file for Dr.Karimi's presentation https://github.com/Academic-Ayda-z/Ecg---Internship/blob/main/ECG_plots.pptx
 
 and made new changes to the ecg_plot.ipynb file.
 
