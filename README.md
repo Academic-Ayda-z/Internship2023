@@ -1,10 +1,14 @@
 # Internship 2023
-Cardiac arrhythmia Detection from Ecg test using signal and image processing
 Biobank project
+
+Cardiac arrhythmia Detection from Ecg test using signal and image processing
 
 I am being supervised by Associate Professor Zohre Azimifar at Shiraz University.
 
 ## Report of What I have done so far :
+
+## Segment anything model :
+I used this code to generate segmented images of cells used for Miss Sedaghat's thesis.
 
 ## Biobank Report:
 https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf
@@ -19,7 +23,7 @@ https://github.com/Academic-Ayda-z/Internship2023/blob/main/ECG%20Report%20.pdf
 ## completed 
 https://github.com/Academic-Ayda-z/Internship2023/blob/main/data%20set%20Imprtant%20information.pdf
 
-## completed the ecg_plot ppt file for Dr.Karimi's presentation 
+## Completed the ecg_plot ppt file for Dr.Karimi's presentation 
 https://github.com/Academic-Ayda-z/Internship2023/blob/main/ECG_plots.pptx
 
 and made new changes to the ecg_plot.ipynb file.
