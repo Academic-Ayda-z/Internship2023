@@ -8,7 +8,8 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 ## Report of What I have done so far :
 
 ## Segment anything model :
-I used this code to generate segmented images of cells used for Miss Sedaghat's thesis.
+I used this code : https://github.com/Academic-Ayda-z/Internship2023/blob/main/sam.ipynb
+to generate segmented images of cells used for Miss Sedaghat's thesis.
 
 ## Biobank Report:
 https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf
