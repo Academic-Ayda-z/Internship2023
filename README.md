@@ -7,11 +7,6 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 
 ## Report of What I have done so far :
 
-
-
-
-
-
 ## Final reports for Dr.Farshad Knunjush:
 1) https://github.com/Academic-Ayda z/Internship2023/blob/main/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%85%D8%A7%D9%87%DB%8C%D8%A7%D9%86%D9%87%20%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA%20%DA%A9%D8%A7%D8%B1%D8%A7%D9%93%D9%85%D9%88%D8%B2%DB%8C%20(1).pdf
 
@@ -51,3 +46,6 @@ and made new changes to the ecg_plot.ipynb file.
 Read https://physionet.org/content/ecg-fragment-high-risk-label/1.0.0/ to understand the database([paper pdf link](https://drive.google.com/file/d/1COB_y73jNy_6JlL_2GeeZF37AjLmUvhn/view?usp=share_link))and visualized some of them in [google drive folder](https://drive.google.com/drive/folders/1gTstRn_Nq08Zk5gSuRHewYVE85lwDqeQ?usp=share_link).
 
 made the source code of [link](https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f) run without any error.(which used [wfdb](https://physionet.org/content/wfdb-python/4.1.0/) )
+
+Final report
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/d78b8092-fadf-40ff-a741-47a578e86cc5)
