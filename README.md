@@ -66,5 +66,19 @@ Final report
 
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/ae104b1d-56a9-48b3-87c8-e3a825d0798f)
 
-
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/75096237-6919-4204-b9c4-f734a1405b28)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/f7cdb998-1d2d-497c-99da-9948b942f9b9)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/385c2daf-c772-4a66-a984-d8ececdb28ba)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/f517b3a2-24e7-4bd6-adf9-e18d4ed78da9)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/0c55cf27-c3c4-4908-9a3a-044c29358e07)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/c74dec5e-b807-4112-8ef4-353092539f4c)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/897cc079-ee10-494b-aad1-b30fe18e41e1)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/89b3fa56-50cf-4e44-9d93-9860152289f6)
+
