@@ -7,10 +7,23 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 
 ## Report of What I have done so far :
 
-## Final report for Dr.Farshad Knunjush
 
-## More Biobank reports on the details and steps of making it
 
+
+
+
+## Final reports for Dr.Farshad Knunjush:
+1) https://github.com/Academic-Ayda z/Internship2023/blob/main/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%85%D8%A7%D9%87%DB%8C%D8%A7%D9%86%D9%87%20%D8%B3%D8%B1%D9%BE%D8%B1%D8%B3%D8%AA%20%DA%A9%D8%A7%D8%B1%D8%A7%D9%93%D9%85%D9%88%D8%B2%DB%8C%20(1).pdf
+
+2) https://github.com/Academic-Ayda-z/Internship2023/blob/main/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%85%D8%B4%D8%B1%D9%88%D8%AD%20%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87%20(2).pdf
+3) https://github.com/Academic-Ayda-z/Internship2023/blob/main/Final%20Internship%20Report.pdf
+
+## More Biobank reports on the details and steps of making it:
+1) https://github.com/Academic-Ayda-z/Internship2023/blob/main/Step%20by%20step%20Biobank%20design%20and%20impelmentation.pdf
+2) https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Dashbord%20Implementaintion%20(1).pptx
+
+## Report for Dr.Shakibafar to answer the following question:
+  "How to modify and edit a medical text using only voice" so I searched for the current solutions you can see in the following link: https://github.com/Academic-Ayda-z/Internship2023/blob/main/spech-text%20modifer%20report.pdf
 
 ## Segment anything model :
 I used this code: https://github.com/Academic-Ayda-z/Internship2023/blob/main/sam.ipynb
