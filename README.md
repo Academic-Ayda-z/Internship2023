@@ -56,6 +56,8 @@ Final report
 
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/a82b2261-ad96-464f-93ec-fcbc7a47d601)
 
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/ca880357-722a-4714-8c92-5c436bd62d08)
+
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/1d85ddeb-bcaf-47a6-b19b-3e8069280da8)
 
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/ca83d642-0352-471f-8bb3-5dce7db2f9ae)
