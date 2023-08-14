@@ -48,4 +48,13 @@ Read https://physionet.org/content/ecg-fragment-high-risk-label/1.0.0/ to unders
 made the source code of [link](https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f) run without any error.(which used [wfdb](https://physionet.org/content/wfdb-python/4.1.0/) )
 
 Final report
+
+
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/d78b8092-fadf-40ff-a741-47a578e86cc5)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/a82b2261-ad96-464f-93ec-fcbc7a47d601)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/1d85ddeb-bcaf-47a6-b19b-3e8069280da8)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/ca83d642-0352-471f-8bb3-5dce7db2f9ae)
+
