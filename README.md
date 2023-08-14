@@ -13,6 +13,8 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 2) https://github.com/Academic-Ayda-z/Internship2023/blob/main/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D9%85%D8%B4%D8%B1%D9%88%D8%AD%20%D9%85%D8%A7%D9%87%D8%A7%D9%86%D9%87%20(2).pdf
 3) https://github.com/Academic-Ayda-z/Internship2023/blob/main/Final%20Internship%20Report.pdf
 
+## Attended  Dr.Azimifar's weekly sessions with Master and PHD students.
+
 ## More Biobank reports on the details and steps of making it:
 1) https://github.com/Academic-Ayda-z/Internship2023/blob/main/Step%20by%20step%20Biobank%20design%20and%20impelmentation.pdf
 2) https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Dashbord%20Implementaintion%20(1).pptx
@@ -57,4 +59,10 @@ Final report
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/1d85ddeb-bcaf-47a6-b19b-3e8069280da8)
 
 ![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/ca83d642-0352-471f-8bb3-5dce7db2f9ae)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/b673ee9a-5795-48d1-b217-68023ab188da)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/545a94dd-6d0a-4b38-a82f-28836ac37465)
+
+![image](https://github.com/Academic-Ayda-z/Internship2023/assets/103877048/ae104b1d-56a9-48b3-87c8-e3a825d0798f)
 
