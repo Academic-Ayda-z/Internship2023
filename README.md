@@ -7,9 +7,15 @@ I am being supervised by Associate Professor Zohre Azimifar at Shiraz University
 
 ## Report of What I have done so far :
 
+## Final report for Dr.Farshad Knunjush
+
+## More Biobank reports on the details and steps of making it
+
+
 ## Segment anything model :
-I used this code : https://github.com/Academic-Ayda-z/Internship2023/blob/main/sam.ipynb
+I used this code: https://github.com/Academic-Ayda-z/Internship2023/blob/main/sam.ipynb
 to generate segmented images of cells used for Miss Sedaghat's thesis.
+2500 cell images were segmented by hand and the Segment Anything model.
 
 ## Biobank Report:
 https://github.com/Academic-Ayda-z/Internship2023/blob/main/Biobank%20Report.pdf
